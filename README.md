@@ -31,3 +31,6 @@ console.log(x); // 200
 **マークダウン**を学習しています。
 ---
 詳しくは、[wikipedia](https://ja.wikipedia.org/wiki/Markdown)を参考にしてください
+
+## バグの修正
+- 大文字、小文字の修正
